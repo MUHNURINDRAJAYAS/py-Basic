@@ -1,12 +1,11 @@
 # 🐍 Python Programming
 
+![Deskripsi](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGV2bjlqMHFwZWJudGk0NmM1eXh6ZmhmaHFyNW9pMGE4aWxhNzVxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.gif)
+
 ###
 ![Python](https://img.shields.io/badge/Python-Programming-blue?logo=python)
 ![Beginner Friendly](https://img.shields.io/badge/Level-Beginner%20Friendly-green)
 ![CLI](https://img.shields.io/badge/Usage-CLI%20%26%20Automation-orange)
-
-###
-<img src="https://raw.githubusercontent.com/MUHNURINDRAJAYAS/MUHNURINDRAJAYAS/output/snake.svg" alt="Snake animation" />
 
 ###
 

@@ -6,7 +6,6 @@
 
 <img src="https://raw.githubusercontent.com/MUHNURINDRAJAYAS/MUHNURINDRAJAYAS/output/snake.svg" alt="Snake animation" />
 
-###
 ---
 
 ## 🚀 Pengenalan Python

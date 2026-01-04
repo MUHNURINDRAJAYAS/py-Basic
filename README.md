@@ -4,8 +4,11 @@
 ![Beginner Friendly](https://img.shields.io/badge/Level-Beginner%20Friendly-green)
 ![CLI](https://img.shields.io/badge/Usage-CLI%20%26%20Automation-orange)
 
+###
+
 <img src="https://raw.githubusercontent.com/MUHNURINDRAJAYAS/MUHNURINDRAJAYAS/output/snake.svg" alt="Snake animation" />
 
+###
 ---
 
 ## 🚀 Pengenalan Python
